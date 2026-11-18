@@ -298,7 +298,7 @@ Estas iteraciones mejoraron la corrección, seguridad y mantenibilidad del resul
 
 ### Despliegue en producción
 
-- Enlace real de producción: `[PENDIENTE: agregar URL de producción]` (no verificado en la configuración disponible).
+- Enlace real de producción: https://sorteos-27mkmzsax-fermar-807.vercel.app/
 
 ### Funcionalidades fuera del alcance (no implementadas)
 
@@ -349,4 +349,4 @@ La colaboración desarrollador-IA fue efectiva porque se mantuvo un control estr
 - Fechas exactas de cada etapa de desarrollo (solo se cuenta con el commit del 2026-11-18 y los timestamps de las migraciones).
 - Métricas de tiempo o esfuerzo invertido.
 - Pruebas funcionales ejecutadas manualmente contra Supabase (no se registraron).
-- URL de producción (no configurada/verificada en el proyecto).
+- URL de producción: https://sorteos-27mkmzsax-fermar-807.vercel.app/ (verificada y documentada).

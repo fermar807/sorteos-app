@@ -211,6 +211,7 @@ Los eventos tendrán tres estados: **Borrador**, **Activo**, **Inactivo**.
 
 ## 13. Consideraciones para el despliegue en Vercel
 
+- URL de producción: https://sorteos-27mkmzsax-fermar-807.vercel.app/
 - Configurar las variables de entorno en el panel de Vercel (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`).
 - El build de producción se verifica con `npm run build`.
 - Framework preset: Next.js.
